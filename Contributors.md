@@ -97,6 +97,7 @@
 - [Irina Kuz](https://github.com/IrinaKuz)
 - [Rozen Berg](https://github.com/rozenberg4christ)
 - [Adarsh Kannan](https://github.com/void-adarsh)
+- [Ankita Pradhan](https://github.com/Ankitapradhan04)
 - [Rodrigo Vélez] (https://github.com/llRodroll)
 - [Michal Koder](https://github.com/MichalKoder)
 - [chmodx1sh](https://github.com/chmodx1sh)
